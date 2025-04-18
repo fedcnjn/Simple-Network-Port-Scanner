@@ -1,5 +1,19 @@
 # Simple-Network-Port-Scanner
-Just a simple port scanner that checks if your top common ports. After check is complete you can save the file on to your device for record keeping. Can be ran using Python via desktop or cellular device. Must first type ipv4 address and then hit enter, next you will type name of file (no special characters only underscore allowed). Enjoy !
+Port Scanner Tool – Quick Overview
+This is a simple yet effective port scanner designed to check the most commonly used ports on a given IPv4 address. Once the scan is complete, users have the option to save the results as a text file for future reference.
+
+How it works:
+
+Enter the target IPv4 address and press Enter.
+
+Input a name for the results file (use only letters, numbers, and underscores).
+
+The scan will begin and display open or closed ports in real-time.
+
+Platform Compatibility:
+This tool can be run on desktop or mobile devices using Python.
+
+Enjoy a quick and easy way to assess network security with just a few keystrokes!
 
 # Ports Included In Scanner:
 20,   # FTP (Data)
