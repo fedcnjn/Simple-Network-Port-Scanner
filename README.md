@@ -50,5 +50,5 @@ Enjoy a quick and easy way to assess network security with just a few keystrokes
 8888  # Jupyter Notebook / Dev Server 
 
 #To open the file automatically on Windows, replace Line 93 line with:
-os.system("notepad {output_file}")
+os.system(f"notepad {output_file}")
 If line is not added it will still save in your notepad, it just will not automatically open.
